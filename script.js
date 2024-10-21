@@ -3,6 +3,6 @@ alert('Bem vindo ao consultório! Esta é a fila de espera: ')
 let queue = ['1°carlos','2°anitta','3°noah']
 alert('1°carlos,2°anitta,3°noah,esta é a fila de espera')
 alert('um novo paciente entou na fila,o nome dela é flor então ela será o último')
-queue.push('flor')
+queue.push('4°flor')
 alert(`${queue}`)
-alert(`o primeiro paciente da fila de espera,o carlos foi consultado!`)
+alert(`o primeiro paciente da fila de espera, o carlos foi consultado!`)
